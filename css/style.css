@@ -1235,6 +1235,15 @@ pre {
     padding-bottom: 100px;
 }
 
+.scratchvideo1{
+    width: 100%;
+    height: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 #anchor {
     background-color: white;
     color: black;
